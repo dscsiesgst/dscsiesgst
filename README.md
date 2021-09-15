@@ -1,16 +1,22 @@
-### Hi there 👋
+DSC SIES GST is a community-powered by Google for students interested in growing as a developer 👩‍💻👨‍💻 
 
-<!--
-**dscsiesgst/dscsiesgst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Want to connect 🤝, learn 🧑‍💻 and grow ⬆️?
 
-Here are some ideas to get you started:
+Join us! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Our community links:-
+
+Discord Community:-
+https://bit.ly/GDSCSIESGSTDiscord
+
+WhatsApp:-
+https://bit.ly/GDSCSIESGSTWhatsApp
+
+DSC Platform:-
+https://bit.ly/GDSCSIESGSTCommunityPage
+
+Instagram handle:-
+https://bit.ly/GDSCSIESGSTInstagram
+
+LinkedIn:-
+https://bit.ly/GDSCSIESGSTLinkedIn
